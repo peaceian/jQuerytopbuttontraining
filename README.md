@@ -4,4 +4,5 @@ The top button is made by using jQuery.<br>
             $(window).scroll(function(){<br>
                 if($ (this).scrollTop()<200){$ ('#myTop').fadeOut();}<br> 
                 else {$("#myid").fadeIn();}});<br>
-        });
+        });<br>
+ $ (function(){$ (" ").event(function(){document(" , ").action();});});<br>
